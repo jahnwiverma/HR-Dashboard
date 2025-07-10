@@ -66,6 +66,7 @@ HIGHLIGHTS:
 -Helps identify staffing levels and possible imbalances across roles.
 
 📈 BUSINESS IMPACT & INSIGHTS
+
 -Provided HR teams with a centralized and interactive view of workforce metrics, reducing reliance on static reports or manual Excel tracking.
 -Enabled data-driven decisions on hiring by highlighting job roles with the highest and lowest staffing levels.
 -Improved visibility into gender distribution and age demographics, supporting the organization’s diversity and inclusion goals.
@@ -74,4 +75,5 @@ HIGHLIGHTS:
 -Empowered HR to filter insights dynamically using job title slicers, making the dashboard adaptable to various departmental needs.
 
 SNAPSHOT OF THE DASHBOARD :
+
 https://github.com/jahnwiverma/HR-Dashboard/blob/main/Snapshot%20of%20HR%20Dashboard.png
