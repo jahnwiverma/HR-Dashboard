@@ -75,5 +75,7 @@ HIGHLIGHTS:
 -Empowered HR to filter insights dynamically using job title slicers, making the dashboard adaptable to various departmental needs.
 
 SNAPSHOT OF THE DASHBOARD :
+<img width="1287" height="721" alt="Snapshot of HR Dashboard" src="https://github.com/user-attachments/assets/eb92cc04-11ef-4dba-8295-3067dcdc9b37" />
+
 
 https://github.com/jahnwiverma/HR-Dashboard/blob/main/Snapshot%20of%20HR%20Dashboard.png
