@@ -12,11 +12,17 @@ TECH STACK:
 
 This dashboard was built using the following tools and technologies
 Tools Used:
+
 📊 Power BI Desktop – Used for creating interactive reports and dashboards with drag-and-drop visuals.
+
 🔄 Power Query – Utilized for cleaning, transforming, and loading data from multiple sources.
+
 🧮 DAX (Data Analysis Expressions)– Applied to build calculated columns and measures for custom insights and KPIs.
-🧩 Data Modeling – Established relationships between tables (staffs , quali) to enable accurate, cross-filtered analysis.
+
+🧩 Data Modeling – Established relationships between tables (staffs , quali) to enable accurate, cross-filtered analysis. 
+
 📁 .pbix File Format – The native file format for saving and sharing Power BI reports.
+
 
 DATA SOURCE:
 
