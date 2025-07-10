@@ -5,9 +5,11 @@ A dynamic, interactive data visualization tool built in Power BI to showcase wor
 Highlights key HR metrics through intuitive visuals, slicers, and time-based analysis for strategic insights.
 
 PURPOSE:
+
 This dashboard provides a visual overview of key HR metrics, including headcount, salary distribution, gender ratio, and hiring trends. It enables HR teams to quickly understand workforce composition and track changes over time. The goal is to support better staffing decisions and monitor organizational growth through data-driven insights.
 
 TECH STACK:
+
 This dashboard was built using the following tools and technologies
 Tools Used:
 📊 Power BI Desktop – Used for creating interactive reports and dashboards with drag-and-drop visuals.
@@ -17,9 +19,11 @@ Tools Used:
 📁 .pbix File Format – The native file format for saving and sharing Power BI reports.
 
 DATA SOURCE:
+
 Sample HR dataset provided via Chandoo’s YouTube channel. Used for learning and demonstration purposes only.
 
 HIGHLIGHTS:
+
 📌Business Problem - The HR team lacks a centralized, data-driven way to monitor workforce demographics, salary distribution, and hiring trends. Without real-time insights into job roles, gender balance, and headcount growth, decision-makers struggle to manage diversity goals, budget planning, and role-specific hiring effectively.
 
 🎯Business Goal - To provide a dynamic, centralized dashboard that enables HR teams to track key workforce metrics, monitor diversity, analyze salary distribution, and support strategic hiring and budgeting decisions through real-time, visual insights.
@@ -54,7 +58,7 @@ HIGHLIGHTS:
 -Displays number of employees in each job role.
 -Helps identify staffing levels and possible imbalances across roles.
 
-📈 Business Impact & Insights
+📈 BUSINESS IMPACT & INSIGHTS
 -Provided HR teams with a centralized and interactive view of workforce metrics, reducing reliance on static reports or manual Excel tracking.
 -Enabled data-driven decisions on hiring by highlighting job roles with the highest and lowest staffing levels.
 -Improved visibility into gender distribution and age demographics, supporting the organization’s diversity and inclusion goals.
