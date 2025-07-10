@@ -1,6 +1,7 @@
 # HR-Dashboard
 
 HR ANALYTICS DASHBOARD: OVERVIEW & KEY METRICS
+
 A dynamic, interactive data visualization tool built in Power BI to showcase workforce demographics, headcount, and salary trends.
 Highlights key HR metrics through intuitive visuals, slicers, and time-based analysis for strategic insights.
 
